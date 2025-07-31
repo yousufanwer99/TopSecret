@@ -1,4 +1,4 @@
-class MyClassX
+class MyClassX 
 {
 
 }

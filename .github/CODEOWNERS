@@ -1,0 +1,6 @@
+# CODEOWNERS file
+
+
+
+# Services folder owned by backend team
+/Services/              @yousufanwer99
